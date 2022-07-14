@@ -1089,6 +1089,13 @@
             "twitter_url": "https://twitter.com/afterxleep"
           },
           {
+            "title": "Daniel Garbień's Blog",
+            "author": "Daniel Garbień",
+            "site_url": "https://danielgarbien.com/",
+            "feed_url": "https://danielgarbien.com/feed.xml",
+            "twitter_url": "https://twitter.com/danielgarbien"
+          },
+          {
             "title": "Daniel Kennett’s Blog",
             "author": "Daniel Kennett",
             "site_url": "http://ikennd.ac/",
